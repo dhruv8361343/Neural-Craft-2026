@@ -1,4 +1,8 @@
 # Neural-Craft-2026
+
+#Report link
+https://docs.google.com/document/d/1GvFLFIA6kLMQQteeyVhlIMhHTHIv8FyKl2rAeiWl6Zc/edit?usp=sharing
+
  ## THE KAGGLE NOTEBOOK CONTAINS THE CODE FOR SOLVING THE PROBLEM . 
  ### The approach was to use XGBoost  Classifier as ML model for all the 3 tasks and then used primary category as a feature for secondary category and secondary category,primary category as feature for severity . 
 
